@@ -1,0 +1,19 @@
+
+State Machine - |VSCPU|stvar_ff
+Name stvar_ff.ST_CJMP1 stvar_ff.ST_SUB2 stvar_ff.ST_SUB1 stvar_ff.ST_STORE1 stvar_ff.ST_LOAD2 stvar_ff.ST_LOAD1 stvar_ff.ST_JMP1 stvar_ff.ST_INC1 stvar_ff.ST_AND2 stvar_ff.ST_AND1 stvar_ff.ST_ADD2 stvar_ff.ST_ADD1 stvar_ff.ST_FETCH3 stvar_ff.ST_FETCH2 stvar_ff.ST_FETCH1 stvar_ff.sthalt 
+stvar_ff.sthalt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+stvar_ff.ST_FETCH1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+stvar_ff.ST_FETCH2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+stvar_ff.ST_FETCH3 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+stvar_ff.ST_ADD1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+stvar_ff.ST_ADD2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+stvar_ff.ST_AND1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+stvar_ff.ST_AND2 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+stvar_ff.ST_INC1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+stvar_ff.ST_JMP1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+stvar_ff.ST_LOAD1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+stvar_ff.ST_LOAD2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+stvar_ff.ST_STORE1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+stvar_ff.ST_SUB1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+stvar_ff.ST_SUB2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+stvar_ff.ST_CJMP1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

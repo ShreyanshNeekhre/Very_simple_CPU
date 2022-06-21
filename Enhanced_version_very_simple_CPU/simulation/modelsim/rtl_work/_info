@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/18.1/project files/EVSCPU/simulation/modelsim
+Pmy_package
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+w1637669011
+R0
+8C:/intelFPGA_lite/18.1/project files/EVSCPU/my_package.vhd
+FC:/intelFPGA_lite/18.1/project files/EVSCPU/my_package.vhd
+l0
+L4
+VGSXcTa`<1E7Sc=>8nzA=R1
+!s100 A0V3;BFbk5P8kTXm_Ek6F2
+Z3 OV;C;10.5b;63
+31
+Z4 !s110 1637671322
+!i10b 1
+Z5 !s108 1637671322.000000
+!s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/EVSCPU/my_package.vhd|
+!s107 C:/intelFPGA_lite/18.1/project files/EVSCPU/my_package.vhd|
+!i113 1
+Z6 o-93 -work work
+Z7 tExplicit 1 CvgOpt 0
+Evscpu
+Z8 w1637668967
+Z9 DPx4 work 10 my_package 0 22 GSXcTa`<1E7Sc=>8nzA=R1
+Z10 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R0
+Z11 8C:/intelFPGA_lite/18.1/project files/EVSCPU/VSCPU.vhd
+Z12 FC:/intelFPGA_lite/18.1/project files/EVSCPU/VSCPU.vhd
+l0
+L5
+VbVjacPS8FiGWb<[2DUfo41
+!s100 8n>dKa3Xo:D0mBhlj>d9^3
+R3
+31
+R4
+!i10b 1
+R5
+Z13 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/EVSCPU/VSCPU.vhd|
+Z14 !s107 C:/intelFPGA_lite/18.1/project files/EVSCPU/VSCPU.vhd|
+!i113 1
+R6
+R7
+Abehave
+R9
+R10
+R1
+R2
+Z15 DEx4 work 5 vscpu 0 22 bVjacPS8FiGWb<[2DUfo41
+l56
+L25
+VYf?AGKFIIADa[`[<H17@Z0
+!s100 A>bIUfS@@E;Y^HL^LzK8R1
+R3
+31
+R4
+!i10b 1
+R5
+R13
+R14
+!i113 1
+R6
+R7
+Evscputb
+Z16 w1637670185
+R9
+R1
+R2
+R0
+Z17 8C:/intelFPGA_lite/18.1/project files/EVSCPU/vscputb.vhd
+Z18 FC:/intelFPGA_lite/18.1/project files/EVSCPU/vscputb.vhd
+l0
+L7
+VFJdEgKl8g1jZ@5bNJ4[SM1
+!s100 20H1ZEg?;JS]AFzf1lEF=0
+R3
+31
+R4
+!i10b 1
+R5
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/EVSCPU/vscputb.vhd|
+Z20 !s107 C:/intelFPGA_lite/18.1/project files/EVSCPU/vscputb.vhd|
+!i113 1
+R6
+R7
+Astim
+R10
+R15
+R9
+R1
+R2
+DEx4 work 7 vscputb 0 22 FJdEgKl8g1jZ@5bNJ4[SM1
+l56
+L8
+ViDi=NI<HB=edg=:8H?PXE3
+!s100 BH`ciRUUi66BOWXUCRW0>0
+R3
+31
+R4
+!i10b 1
+R5
+R19
+R20
+!i113 1
+R6
+R7
